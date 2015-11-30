@@ -3,3 +3,9 @@
 //
 
 
+#include "header12.h"
+
+void foo12() {
+    a = 12;
+}
+

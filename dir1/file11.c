@@ -3,3 +3,9 @@
 //
 
 
+#include "../../header11.h"
+#include "header12.h"
+
+void foo11() {
+    a =11;
+}
